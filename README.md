@@ -2,6 +2,6 @@
 
 open the link in safari 
 
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/niuxinghua/storeipa_ota/master/manifest.plist
+itms-services://?action=download-manifest&url=https://yeelight-firmware-test.oss-cn-beijing.aliyuncs.com/yeelightstoreapp/alpha/manifest.plist
 
 
